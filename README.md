@@ -1,5 +1,5 @@
 
-# Module 3
+# Password-Generator
 
 ## Description
 
@@ -11,7 +11,7 @@ I learned variables, functions, creating buttons, query selector, prompts and mo
 ## Installation
 
 Click the link and you're ready to generate passwords.
-https://etranchell.github.io/module3/
+https://etranchell.github.io/Password-Generator/
 
 ## Usage
 
